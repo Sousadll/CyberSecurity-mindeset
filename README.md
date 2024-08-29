@@ -1,5 +1,5 @@
 
-# Cybersecurity Mindeset
+# Cybersecurity Mindset
 
 Documentação criada referente a matéria do professor pardal, para diversos tipos de anotações referente a materia.
 
